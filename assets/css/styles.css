@@ -307,7 +307,7 @@ input {
 .home-data-title, 
 .home-social-link,
 .home-info {
-  color: #fff;
+  color: #000;
 }
 
 .home-data-subtitle {
@@ -343,7 +343,7 @@ input {
   position: absolute;
   right: 0;
   bottom: 1rem;
-  width: 228px;
+  width: 210px;
 }
 
 .home-info-title {
